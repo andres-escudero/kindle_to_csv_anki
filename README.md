@@ -23,4 +23,4 @@ Field 3: Translation of word in isolation.
 </br>
 Field 4: Translation of entire sentence. DeepL is really good at this. Now you have a more nuanced translation to use if you want to update the individual translation as well.
 
-Be sure to allow HTML in fields when you're importing.
+Be sure to allow HTML in fields when you're importing. Also be sure to use '\t' as the delimiter. 
