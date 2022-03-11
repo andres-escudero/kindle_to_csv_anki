@@ -15,9 +15,9 @@ Steps to use:
 8. Execute the script by typing 'python export_csv_kindle.py'.
 9. After it runs, you will see a new CSV file in the same directory as the script. You can open this to prune it if needed, but it should be ready for immediate import into Anki. **The fields are as follows:**
 
-1. Word
-2. Context sentence with the word in bold.
-3. Translation of word in isolation.
-4. Translation of entire sentence. DeepL is really good at this. Now you have a more nuanced translation to use if you want to update the individual translation as well.
+Field 1: Word
+Field 2: Context sentence with the word in bold.
+Field 3: Translation of word in isolation.
+Field 4: Translation of entire sentence. DeepL is really good at this. Now you have a more nuanced translation to use if you want to update the individual translation as well.
 
 Be sure to allow HTML in fields when you're importing.
