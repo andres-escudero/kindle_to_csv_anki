@@ -16,8 +16,11 @@ Steps to use:
 9. After it runs, you will see a new CSV file in the same directory as the script. You can open this to prune it if needed, but it should be ready for immediate import into Anki. **The fields are as follows:**
 
 Field 1: Word
+</br>
 Field 2: Context sentence with the word in bold.
+</br>
 Field 3: Translation of word in isolation.
+</br>
 Field 4: Translation of entire sentence. DeepL is really good at this. Now you have a more nuanced translation to use if you want to update the individual translation as well.
 
 Be sure to allow HTML in fields when you're importing.
